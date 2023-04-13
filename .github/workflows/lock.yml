@@ -9,7 +9,7 @@ on:
       environment:
         description: 'The environment to lock'
         required: true
-        default: 'main'
+        default: 'master'
       mode:
         description: 'The mode to use: check, lock, unlock'
         required: true
